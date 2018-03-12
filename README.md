@@ -1,3 +1,3 @@
 # hello-world
 this is nothing 
-i'm just do something changes and commit it for experiment;
+i'm just do something changes to commit it for experiment;
